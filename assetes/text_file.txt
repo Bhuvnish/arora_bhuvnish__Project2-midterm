@@ -1,0 +1,61 @@
+Desktop page measurements
+
+Header logo= width-159px
+             length-74px
+ header nav= width-706px
+             length-35px
+
+signin= width-170px
+             length-62px
+
+
+hero_image= width-1200px
+             length-600px
+
+
+soft-drink ,beer,wine,gin=  width-230px
+                            height-420px
+
+
+
+contact_image= width-1200px
+             height-550px
+
+text_area= width-1200px
+             height-450px
+
+ceo ,manager,supportmanager =     width-250px
+                             height-390px
+
+footer= width-1200px
+             height-400px
+
+
+
+mobile_page   =
+
+ container= width-428px
+
+header_nav=
+ width= 428px
+height=74px
+
+
+ hero_image=
+ width= 428px
+height=74px
+
+
+beer,gin=      width= 150px
+               height=330
+
+about_image=   width= 428px
+               height=360px
+
+ceo,manager =  width= 150px
+height=290px
+
+footer =  width= 428px
+          height=305px
+
+
