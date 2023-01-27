@@ -1,0 +1,137 @@
+.hidden {
+    display: none;
+}
+
+.container {
+    width: 428px;
+    margin: 0 auto;
+    text-align: center;
+}
+.box-color {
+    background-color: black;
+    color: black;
+    text-align: center;
+}
+.box-color2 {
+    background-color: #a7a7a7;
+    text-align: center;
+}
+
+
+
+
+    
+    
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 85px);
+    grid-column-gap:16px;
+}
+
+#header-logo{
+    width: 430px;
+    height: 74px;
+    grid-column: 1/3;
+    margin: 0 auto;
+    margin-left: 400px;
+    
+}
+
+
+#hero-img-1{ 
+    height: 300px;
+    width: 430px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+
+.hero_image{
+    grid-column: 1/-1;
+}
+#products_con {
+    margin-top: 50px;
+}
+
+ 
+
+    
+
+.beer{
+    width: 150px;
+    height:330px;
+    grid-column: 7/9;
+    margin-left: 25px;
+
+}
+.gin{
+    width: 150px;
+    height:330px;
+    grid-column: 10/12;
+
+}
+
+#img_con{
+    margin-top: 50px;
+    height: 360px;
+    width: 430px;
+    margin-left: 200px;
+}
+.text{
+    width: 430px;
+    height: 360px;
+    grid-column: 1/2;
+    margin-left: 200px;
+}
+
+
+#contact{
+    margin-top: 50px;
+    grid-column: 3/5;
+    width: 240px;
+    height: 66px;
+}
+#portfolio{
+    margin-top: 50px;
+    grid-column: 1/3;
+    width: 240px;
+    height: 66px;
+    margin-left: 300px;
+
+}
+#ceo{ 
+   
+    grid-column: 1/2;
+    width: 150px;
+    height: 290px;
+    margin-top: 600px;
+    
+    margin-left: 450px;
+}
+#manager{ 
+   
+    grid-column: 3/5;
+    width: 150px;
+    height: 290px;
+    margin-top: 600px;
+   
+    margin-left: 450px;
+
+
+}
+
+#text_our_people{ 
+    width: 430px;
+    height: 255px;
+    grid-column:1/12 ;
+    margin-left: 400px;
+}
+
+#footer{
+    width: 430px;
+    height: 305px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
