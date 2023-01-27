@@ -114,7 +114,7 @@
     width: 250px;
     height: 390px;
     margin-top: 700px;
-    grid-row: 40px ;
+    
 }
 #manager{ 
    
@@ -122,7 +122,7 @@
     width: 250px;
     height: 390px;
     margin-top: 700px;
-    grid-row: 40px 0;
+    
 }
 #support_manager{ 
     
@@ -130,7 +130,7 @@
     width: 250px;
     height: 390px;
     margin-top: 700px;
-    grid-row: 40px 0;
+   
 
 }
 #our_people{
@@ -146,26 +146,4 @@
     margin-top: 50px;
     width: 1200px;
     height: 400px;
-}
-/**moble page**/
-
-
-.grid {
-    display: grid;
-  
-   
-    grid-template-columns: repeat(4, 85px);
-    grid-column-gap:16px;
-}
-
-#header-logo_mobile{
-
-    width: 70px;
-    height: 30px;
-    grid-column: 1/2;
-}
-#mobile_header_nav{
-     width: 238px;
-     height: 12px;
-     grid-column: 2/3;
 }
